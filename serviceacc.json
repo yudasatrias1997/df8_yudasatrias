@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yuda-datafellowship8",
+  "private_key_id": "26f7e21f651d6ddf9097b2be3deb6c0dc9732f71",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCs0PUFDuPxYKSH\nhKRSxYTTGDR2IkVvfH8ii4Bqj0SWXnVJQQeH/rgIbtsvUvAKldgtH7k6oqbx5aAZ\nXBA3vFGdt4QffZxONJJaxAr8n+vbhwAoMwNpmT8q4AZ/yhyZ073O+n60lWSkBKrG\n2nHH8aYuil3ONAPmGXP3mEELSkSwpTvyrZtYoKVm3hYpEw2M+4OOQSLNJMozsv66\nvtIhLqe5hFmOHPBYogFWx9vx9TDIF3jJxS3JZD8vgMV9GcEV+D+w4pby0ISkz2/e\nl1XhIaiGWZLmxI6eTQ9sEuTpZnv4cObUmEUu3fYacPj4f1EceOPRgJsESD6a1Z7a\n0fjaHsOPAgMBAAECggEATvd6hpGryb+x3rTXC3VzAKyGSFbXqJ5YT7Yz+z01B4rp\nCAydfuB/Qmc5Y7H/uq6G5fOhhbAOHemh0wS06mr0Vl+lkWgp1LiECdKb/Jysvxa8\nlSHeVNHwQcy1W45ErGvLRzlCTY0YPDRfvtbReB4tJAYY4CD3iRynV4NscVbB9X8C\nKqgYilP7AgsELUpbthrYwHp8ZQtQFziUf6t8urhk+jMuGmaSyQEq5XBxvdGz568W\nbXRj4DCFXVnM0li1fQKyf4rqSZ2c+s6iYvOCw21ZdFmnlTHLfKuFtiXbQtpPQCLp\ncxI24+GWrwGbJMAT516N/u056ZefU6AFllj+poPxaQKBgQDociE5fql/mXjaR8PW\n1u0ROZZDKY2TK0z6zGoSll2SOfocTeevnUWf5yk41/lMkubpgzFtLrvnKPIbLASr\n6HYInDSfEPKXNbcjH/eszlg9GJJABm+RUbS7TjU/QuREONdfQ9VTGDidTkLdsJz5\ne/3zYgLxgTjFEvcs4DmgpZT55wKBgQC+U/plf3/6RLu/dzvtmHGTv6WJPQBvGkbB\nbwjHIbGdbr/ObA1a5OYYQ3e2wbdRLW6R8l72SdyREBVRFvXWzjLvgXlKBEr6AnVn\nrAKQzwwBaovbKuXj/LZ3tQv9XH+tjo4d0MAf/T50o7VqnOKSYJ9psWccxQvvshQu\nBeiPZidEGQKBgQCAsCb6yMgYT6Rb3J1sxOLMxYAOQOQTlUZyF1emYL7/JL/2iZ76\nV+zjATyOLuvjW/UhVLO5icUXzlBzgKQ5dGJck/aCFgToeCGi/aDGeBrcAE1/ytBb\nuMuBY2QRWPw9VObP5CMndOJrHJfiWlQdv2qyIxIUGIGQgdZ8bssYyHM5AwKBgQCI\nvnFS5y4ds7BoudP2uuYvTywx1AAx0uEvLQVTfOPNxrpMJtnZike++wpR5hA9ZLTi\naw7LSPoNx05pemOat39lENMB2N+9jHKpz63wOLHZeqGND98n1HOMwikhGYoqOhfl\nWAwRb7OlvdEkDh/DJ2ShXXJF+1S+HGXfQyN5k912UQKBgQCYmPpNQpRAulwfOZS5\nGnfb9SSpCF/dHiuZsF2RZRG/JHArbtpyrHhnq6EDagOEBJiJ1qNsb8+qTT9C9hy5\nQHrB93B1FoTfMSx07IOhme0cp87o7cCedUlqLUMUv7oVPOTs8Q01JgCGank50InQ\nD5lhnxqm8J7uEk+UTd2T3EvWBQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "df8acc-yudasatrias@yuda-datafellowship8.iam.gserviceaccount.com",
+  "client_id": "102879623809893869330",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/df8acc-yudasatrias%40yuda-datafellowship8.iam.gserviceaccount.com"
+}
