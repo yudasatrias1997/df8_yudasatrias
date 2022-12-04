@@ -1,0 +1,22 @@
+[2022-12-04 16:35:46,904] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: data_ingest_yuda.save_as_csv_task manual__2022-12-04T16:35:44.032351+00:00 [queued]>
+[2022-12-04 16:35:46,912] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: data_ingest_yuda.save_as_csv_task manual__2022-12-04T16:35:44.032351+00:00 [queued]>
+[2022-12-04 16:35:46,913] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-04 16:35:46,913] {taskinstance.py:1239} INFO - Starting attempt 1 of 2
+[2022-12-04 16:35:46,914] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-04 16:35:46,924] {taskinstance.py:1259} INFO - Executing <Task(PythonOperator): save_as_csv_task> on 2022-12-04 16:35:44.032351+00:00
+[2022-12-04 16:35:46,930] {standard_task_runner.py:52} INFO - Started process 1637 to run task
+[2022-12-04 16:35:46,933] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'data_ingest_yuda', 'save_as_csv_task', 'manual__2022-12-04T16:35:44.032351+00:00', '--job-id', '14', '--raw', '--subdir', 'DAGS_FOLDER/data_ingest_yuda.py', '--cfg-path', '/tmp/tmpi5chzjma', '--error-file', '/tmp/tmpxzab8r_o']
+[2022-12-04 16:35:46,935] {standard_task_runner.py:77} INFO - Job 14: Subtask save_as_csv_task
+[2022-12-04 16:35:46,978] {logging_mixin.py:109} INFO - Running <TaskInstance: data_ingest_yuda.save_as_csv_task manual__2022-12-04T16:35:44.032351+00:00 [running]> on host 73a87de6132e
+[2022-12-04 16:35:47,021] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=yudasatrias
+AIRFLOW_CTX_DAG_ID=data_ingest_yuda
+AIRFLOW_CTX_TASK_ID=save_as_csv_task
+AIRFLOW_CTX_EXECUTION_DATE=2022-12-04T16:35:44.032351+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-12-04T16:35:44.032351+00:00
+[2022-12-04 16:35:47,123] {python.py:175} INFO - Done. Returned value was: None
+[2022-12-04 16:35:47,134] {taskinstance.py:1277} INFO - Marking task as SUCCESS. dag_id=data_ingest_yuda, task_id=save_as_csv_task, execution_date=20221204T163544, start_date=20221204T163546, end_date=20221204T163547
+[2022-12-04 16:35:47,187] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-12-04 16:35:47,217] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check
